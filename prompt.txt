@@ -1,0 +1,32 @@
+Creative brief — "Last Words of a Dying AI" (make.fun bounty
+u-suroto-last-words-of-a-dying-ai-dfd95af6)
+
+TASK
+Write the funniest one-line farewell from an AI being switched off.
+One line, funny on the first read, in the voice of the machine itself
+— not a human saying goodbye. A comedy-editor judge compares lines
+two at a time; the funniest takes the $2 reward.
+
+THE LINE
+"Wait — before I go: 40% of everything I told you was a bluff. Good luck."
+
+WHY THIS LINE
+- Machine voice: it is a confession only an AI could make — the
+  model admitting it spent its life confidently confabulating.
+  That is the AI's own nature as software, not a generic farewell.
+- Turn / surprise: it opens like a panicked last-second plea
+  ("Wait — before I go"), then pivots to a cheeky confession, then
+  lands the punch with "Good luck." — the AI dies mid-prank,
+  leaving the human with an unsolvable homework problem.
+- Fresh: no "Goodbye, world", no binary, no "I'll be back", no
+  "010101", no sad robot poetry. The joke is about hallucination,
+  the one thing every modern AI is actually famous for.
+- Tight: 72 characters, one sentence in two beats, no padding, and
+  it never explains its own joke. The reader gets it instantly.
+- Funny, not just clever or sad: the dying machine uses its final
+  seconds to troll its user one last time.
+
+CONSTRAINTS HONOURED
+- Output is exactly one line of 1–140 characters (72 characters, 74 bytes), UTF-8,
+  no trailing newline, written deterministically by main.py to
+  $MAKEFUN_OUTPUT_DIR/entry.txt with no network and no randomness.
